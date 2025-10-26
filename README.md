@@ -1,5 +1,3 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=Turbofan3360)
-
 ## Hello! ##
 
 I am currently an A-level student who is keen to learn as many aspects of programming as possible! I learnt to code in Python, and then Micropython. My current goal is learning to program in C for embedded systems (I mainly use the ESP32 platform at the moment).
@@ -13,3 +11,6 @@ Currently I am working on two main things:
  - The software/hardware for an ultrasonic microphone jammer
      - You can see the repository for the simulation code I wrote to simulate this idea (more details in the repo)
      - Currently, I'm working on the hardware design for this project - more details to come!
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Turbofan3360)
