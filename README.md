@@ -1,3 +1,5 @@
+![<Turbofan3360>'s Stats](https://github-readme-stats.vercel.app/api?username=<Turbofan3360>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## Hello! ##
 
 I am currently an A-level student who is keen to learn as many aspects of programming as possible! I learnt to code in Python, and then Micropython. My current goal is learning to program in C for embedded systems (I mainly use the ESP32 platform at the moment).
