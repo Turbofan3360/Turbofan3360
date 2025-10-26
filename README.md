@@ -1,4 +1,4 @@
-![<Turbofan3360>'s Stats](https://github-readme-stats.vercel.app/api?username=<Turbofan3360>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Turbofan3360)
 
 ## Hello! ##
 
