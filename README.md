@@ -13,6 +13,10 @@ Currently I am working on two main things:
      - Developed code to simulate the project hardware I'm intending to use (details in the repo)
      - Currently, I'm working on the hardware design for this project - more details to come!
 
+### Future Project Ideas I Want To Attempt: ###
+- Learn VHDL language for FPGAs
+- Machine Vision Obstacle Avoidance for UAVs
+
  ### Interests: ###
 
  - :rocket: Aerospace technologies (particularly spaceflight & civilian uses for autonomous UAVs)
