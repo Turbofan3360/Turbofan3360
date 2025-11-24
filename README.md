@@ -1,6 +1,6 @@
 ##  :wave: Hello! ##
 
-I am currently an A-level student who is keen to learn as many aspects of programming as possible! I began coding Python, followed by Micropython. My current goal is learning to program in C for embedded systems (focusing on the ESP32 platform), which I'm really enjoying working on!
+I am currently an A-level student who is keen to learn as many aspects of programming as possible! I began coding Python, followed by Micropython. Recently, I have been learning to program in C for embedded systems (focusing on the ESP32 platform), which I'm really enjoying!
 
 ### Current Projects: ###
 
