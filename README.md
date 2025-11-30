@@ -1,21 +1,22 @@
 ##  :wave: Hello! ##
 
-I am currently an A-level student who is keen to learn as many aspects of programming as possible! I began coding Python, followed by Micropython. Recently, I have been learning to program in C for embedded systems (focusing on the ESP32 platform), which I'm really enjoying!
+I am a Year 13 A Level student with a strong interest in embedded systems and other real-world applications for my code (such as writing simulations). I work in Python and C (focusing on the ESP32 platform), and enjoy applying theoretical concepts from maths and physics to real-world challenges.
 
 ### Current Projects: ###
 
 Currently I am working on two main things:
  - ESP32 based autonomous UAV flight control system
-      - I'm aiming to build as much of the code stack myself as possible. All sensor drivers are written and working (see my repositories), some of which are also C modules that can be compiled into ESP32 firmware (as they all will ultimately be).
-      - Currently I'm working on the sensor fusion algorithms to provide the Navigation for my UAV, as well as some aspects of the Guidance code. This will be uploaded when I have a working navigation system!
+      - Aiming to build as much of the code stack myself as possible. Currently I have written C embedded firmware to drive sensors such as GPS, Magnetometer and Barometer
+      - Currently I'm working on sensor fusion algorithms for UAV navigation, as well as aspects of the Guidance code. This will be uploaded when I have a working navigation system!
+      - GOAL: To produce an open-source ESP32 flight control software capable of autonomous flight
       
- - The software/hardware for an ultrasonic microphone jammer
-     - Developed code to simulate the project hardware I'm intending to use (details in the repo)
+ - Software/hardware for an ultrasonic microphone jammer
+     - Developed Python code to simulate the ultrasound intereference patterns, helping me design the jammer
      - Currently, I'm working on the hardware design for this project - more details to come!
 
 ### Future Project Ideas I Want To Attempt: ###
-- Learn VHDL language for FPGAs
-- Machine Vision Obstacle Avoidance for UAVs
+- Learn VHDL to program for FPGAs
+- Machine Vision UAV Obstacle Avoidance
 
  ### Interests: ###
 
