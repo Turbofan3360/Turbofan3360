@@ -1,6 +1,6 @@
 ##  :wave: Hello! ##
 
-I am a Year 13 A Level student with a strong interest in embedded systems and other real-world applications for my code, such as simulation. I work in Python and C (currently focusing on the ESP32 platform), and enjoy applying theoretical concepts from maths and physics to real-world challenges.
+I am a Year 13 A Level student interested in embedded systems and other real-world applications for my code, such as simulation. I work in Python and C (currently focusing on the ESP32 platform), and enjoy applying theoretical concepts from maths and physics to real-world problems.
 
 ### Current Projects: ###
 
@@ -18,11 +18,5 @@ Currently I am working on two main things:
 ### Future Project Ideas: ###
 - Learn VHDL to program for FPGAs
 - Machine Vision UAV Obstacle Avoidance
-
- ### Interests: ###
-
- - :rocket: Aerospace technologies (particularly spaceflight & civilian uses for autonomous UAVs)
- - ⚛️ Physics
- - 🧪 STEM outreach
 
 Feel free to get in touch!
