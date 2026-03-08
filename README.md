@@ -11,9 +11,9 @@ Currently I am working on two main things:
       - Currently I'm working on sensor fusion algorithms for UAV navigation, as well as aspects of the guidance logic
       - GOAL: To produce an open-source ESP32 flight control software capable of autonomous flight
       
- - Software/hardware for an ultrasonic microphone jammer
-     - Developed Python code to simulate the ultrasound intereference patterns, used to help with hardware design
-     - Currently, I'm working on the hardware design for this project - more details to come.
+ - OpenEQ Android app
+      - Developing a fully open-source audio equalizer for Android
+      - Currently have most features I want, but am continuing to add functionality!
 
 ### Future Project Ideas: ###
 - Learn VHDL to program for FPGAs
