@@ -1,6 +1,6 @@
 ##  :wave: Hello! ##
 
-I am a Year 13 A Level student interested in embedded systems and other real-world applications for my code, such as simulation. I work in Python and C (currently focusing on the ESP32 platform), and enjoy applying theoretical concepts from maths and physics to real-world problems.
+I am a university physics undergraduate, interested in embedded systems and other real-world applications for my code, such as simulation. I work in Python and C (currently focusing on the ESP32 platform), and enjoy applying theoretical concepts from maths and physics to real-world problems.
 
 ### Current Projects: ###
 
